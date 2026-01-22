@@ -1,8 +1,8 @@
-# BlueCon-0x0F
-**BlueCon#0x0F** – Event Details
+# Hck4G-0x0F
+**Hck4G#0x0F** – Event Details
 A Cyber Security event for the community, by the community.
 Join us on Wednesday, 13th August 2025 at Stone & Chalk Melbourne for our August Blue Team Meetup!
-Follow us on LinkedIn: Cyber BlueCon LinkedIn. This meetup features a technical talk and hands-on workshop led by experienced industry professionals, with opportunities to connect and network with the broader cyber community.
+Follow us on LinkedIn: Cyber Hck4G LinkedIn. This meetup features a technical talk and hands-on workshop led by experienced industry professionals, with opportunities to connect and network with the broader cyber community.
 
 **📅 Event Info**
 Date: Wednesday, 13th August 2025
@@ -11,7 +11,7 @@ Location: Stone & Chalk, 121 King Street, Melbourne
 Cost: Free (registration essential)
 Catering: Food and drinks provided
 
-#BlueCon#0x0E
+#Hck4G#0x0E
 
 ###🔌 Talk + Workshop Title:
 Deciphering Command Line Obfuscation & Threat Hunting APTs with KQL - Zero to Hero
@@ -59,7 +59,7 @@ Participants can win:
 Sponsor giveaways
 CyLynk training discounts or lab access
 Recognition for top phishing analysis
-Interested in submitting an application to speak at future BlueCon events? You can apply here: https://forms.gle/k2S4s76jC8VbcgRh7
+Interested in submitting an application to speak at future Hck4G events? You can apply here: https://forms.gle/k2S4s76jC8VbcgRh7
 Interested in volunteering? Let us know at the event.
 
-#BlueCon #AttackInformedDefence #KQLThreatHunting #APTDetection #PurpleTeam #CyberSecurityCommunity #BlueCrew
+#Hck4G #AttackInformedDefence #KQLThreatHunting #APTDetection #PurpleTeam #CyberSecurityCommunity #BlueCrew
